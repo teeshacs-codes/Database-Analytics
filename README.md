@@ -13,3 +13,5 @@ Technologies used:
 - MongoDB Atlas
 - PyMongo
 - Google Colab
+
+All Rights Reserved
